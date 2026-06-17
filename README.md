@@ -11,9 +11,10 @@
 ```
 职教资讯技能包/
 ├── README.md                          # 本文件
+├── SKILL.md                          # 技能定义文件（仓库根目录，导入必读）
 ├── 技能生成过程说明.md                 # 技能迭代演进文档
 ├── 职教资讯/
-│   └── SKILL.md                       # 技能定义文件（可直接上传）
+│   └── SKILL.md                       # 技能定义文件（备用路径）
 ├── scripts/
 │   ├── generate_quickview_word.py      # 速览模式 Word 生成脚本
 │   ├── generate_thematic_word.py       # 主题模式 Word 生成脚本
