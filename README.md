@@ -12,8 +12,8 @@
 职教资讯技能包/
 ├── README.md                          # 本文件
 ├── 技能生成过程说明.md                 # 技能迭代演进文档
-├── skill/
-│   └── 职教资讯.md                     # 技能定义文件（可直接上传）
+├── 职教资讯/
+│   └── SKILL.md                       # 技能定义文件（可直接上传）
 ├── scripts/
 │   ├── generate_quickview_word.py      # 速览模式 Word 生成脚本
 │   ├── generate_thematic_word.py       # 主题模式 Word 生成脚本
@@ -29,7 +29,7 @@
 
 ### 1. 安装技能
 
-将 `skill/职教资讯.md` 上传到目标平台的技能目录中。
+将 `职教资讯/` 目录（包含 `SKILL.md`）复制到目标平台的技能目录中。
 
 ### 2. 安装 Python 依赖
 
